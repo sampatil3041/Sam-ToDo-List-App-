@@ -79,4 +79,4 @@ alert(`✨ Welcome to Samarth's ToDo App
         • Data persists after page refresh
 
         Thanks for trying my project! 🚀
-        Enjoy 😊`)
+        Enjoy 😊.`)
