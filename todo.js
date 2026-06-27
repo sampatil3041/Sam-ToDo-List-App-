@@ -78,4 +78,5 @@ alert(`✨ Welcome to Samarth's ToDo App
         • Automatic saving using Local Storage
         • Data persists after page refresh
 
-        Thanks for trying my project! 🚀 `)
+        Thanks for trying my project! 🚀
+        Enjoy 😊`)
